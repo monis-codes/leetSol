@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moshi02/leetSol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moshi02/leetSol/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -15,9 +16,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moshi02/leetSol/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moshi02/leetSol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
