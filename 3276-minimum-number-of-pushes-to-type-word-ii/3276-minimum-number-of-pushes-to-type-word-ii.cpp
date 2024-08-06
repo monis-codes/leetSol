@@ -1,19 +1,24 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        vector<int> letterFreq(26, 0);
-        for (char c : word) {
-            letterFreq[c - 'a']++;
+        int ans=0;
+        vector<int> freq(26,0); 
+        for(auto it: word){
+            freq[it-'a']++;
         }
+        sort(freq.begin(),freq.end(),greater<int>());
+        for(int i=0;i<26;i++){
+            if(i<8){
+                ans+= freq[i]; 
+            }
+            else if(i<16){
+                ans+= freq[i]*2; 
+            }else if(i<24){
+                ans+= freq[i]*3; 
+            }
+            else ans+= freq[i]*4; 
         
-        sort(letterFreq.rbegin(), letterFreq.rend());
-        
-        int totalPresses = 0;
-        for (int i = 0; i < 26; i++) {
-            if (letterFreq[i] == 0) break;
-            totalPresses += (i / 8 + 1) * letterFreq[i];
         }
-        
-        return totalPresses;
+        return ans;
     }
 };
