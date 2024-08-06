@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/moshi02/leetSol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moshi02/leetSol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moshi02/leetSol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/moshi02/leetSol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moshi02/leetSol/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/moshi02/leetSol/tree/master/2727-number-of-senior-citizens) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moshi02/leetSol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/moshi02/leetSol/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
