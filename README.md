@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/moshi02/leetSol/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [2619-categorize-box-according-to-criteria](https://github.com/moshi02/leetSol/tree/master/2619-categorize-box-according-to-criteria) |
 <!---LeetCode Topics End-->
