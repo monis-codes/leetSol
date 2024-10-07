@@ -72,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/moshi02/leetSol/tree/master/0143-reorder-list) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moshi02/leetSol/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/moshi02/leetSol/tree/master/0143-reorder-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moshi02/leetSol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2619-categorize-box-according-to-criteria](https://github.com/moshi02/leetSol/tree/master/2619-categorize-box-according-to-criteria) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/moshi02/leetSol/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/moshi02/leetSol/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
