@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/moshi02/leetSol/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/moshi02/leetSol/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/moshi02/leetSol/tree/master/2727-number-of-senior-citizens) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/moshi02/leetSol/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moshi02/leetSol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moshi02/leetSol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/moshi02/leetSol/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moshi02/leetSol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moshi02/leetSol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moshi02/leetSol/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/moshi02/leetSol/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/moshi02/leetSol/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/moshi02/leetSol/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/moshi02/leetSol/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -145,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/moshi02/leetSol/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
