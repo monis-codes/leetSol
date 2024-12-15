@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moshi02/leetSol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moshi02/leetSol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/moshi02/leetSol/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1917-maximum-average-pass-ratio](https://github.com/moshi02/leetSol/tree/master/1917-maximum-average-pass-ratio) |
 | [1983-maximum-population-year](https://github.com/moshi02/leetSol/tree/master/1983-maximum-population-year) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/moshi02/leetSol/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/moshi02/leetSol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/moshi02/leetSol/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/moshi02/leetSol/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/moshi02/leetSol/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/moshi02/leetSol/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/moshi02/leetSol/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/moshi02/leetSol/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
