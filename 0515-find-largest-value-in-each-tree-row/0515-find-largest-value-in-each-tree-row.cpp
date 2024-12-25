@@ -12,21 +12,31 @@
 class Solution {
 public:
     vector<int> largestValues(TreeNode* root) {
-        if (!root) return {};// edge case
+        vector<int> res;
         queue<TreeNode*> q;
-        q.push(root);
-        vector<int> arr;
-        for(int level=0; !q.empty(); level++){
-            int qz=q.size();
-            arr.push_back(INT_MIN);
-            for(int i=0; i<qz; i++){
-                auto Node=q.front();
-                q.pop();
-                arr[level]=max(arr[level], Node->val);
-                if (Node->left) q.push(Node->left);
-                if (Node->right) q.push(Node->right);
-            }
+        if (root != nullptr) {
+            q.push(root);
         }
-        return arr;
+
+        while (!q.empty()) {
+            int max = INT32_MIN;
+            int len = q.size();
+
+            for (int i = 0; i < len; i++) {
+                max = max < q.front()->val ? q.front()->val : max;
+
+                if (q.front()->left) {
+                    q.push(q.front()->left);
+                }
+
+                if (q.front()->right) {
+                    q.push(q.front()->right);
+                }
+
+                q.pop();
+            }
+            res.push_back(max);
+        }
+        return res;
     }
 };
