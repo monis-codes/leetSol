@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/moshi02/leetSol/tree/master/1983-maximum-population-year) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/moshi02/leetSol/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/moshi02/leetSol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/moshi02/leetSol/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/moshi02/leetSol/tree/master/2727-number-of-senior-citizens) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moshi02/leetSol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moshi02/leetSol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moshi02/leetSol/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/moshi02/leetSol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/moshi02/leetSol/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/moshi02/leetSol/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/moshi02/leetSol/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/moshi02/leetSol/tree/master/0455-assign-cookies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moshi02/leetSol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/moshi02/leetSol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/moshi02/leetSol/tree/master/0455-assign-cookies) |
 | [1917-maximum-average-pass-ratio](https://github.com/moshi02/leetSol/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/moshi02/leetSol/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/moshi02/leetSol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/moshi02/leetSol/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
