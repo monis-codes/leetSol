@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/moshi02/leetSol/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moshi02/leetSol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/moshi02/leetSol/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/moshi02/leetSol/tree/master/1063-best-sightseeing-pair) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/moshi02/leetSol/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/moshi02/leetSol/tree/master/1013-fibonacci-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/moshi02/leetSol/tree/master/2619-categorize-box-according-to-criteria) |
 ## Linked List
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/moshi02/leetSol/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/moshi02/leetSol/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
