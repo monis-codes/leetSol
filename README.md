@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/moshi02/leetSol/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/moshi02/leetSol/tree/master/1063-best-sightseeing-pair) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moshi02/leetSol/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2562-count-ways-to-build-good-strings](https://github.com/moshi02/leetSol/tree/master/2562-count-ways-to-build-good-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
