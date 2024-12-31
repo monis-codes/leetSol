@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/moshi02/leetSol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/moshi02/leetSol/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/moshi02/leetSol/tree/master/0948-sort-an-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/moshi02/leetSol/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/moshi02/leetSol/tree/master/1063-best-sightseeing-pair) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moshi02/leetSol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moshi02/leetSol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/moshi02/leetSol/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moshi02/leetSol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/moshi02/leetSol/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/moshi02/leetSol/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/moshi02/leetSol/tree/master/1063-best-sightseeing-pair) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moshi02/leetSol/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2562-count-ways-to-build-good-strings](https://github.com/moshi02/leetSol/tree/master/2562-count-ways-to-build-good-strings) |
