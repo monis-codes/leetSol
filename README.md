@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moshi02/leetSol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/moshi02/leetSol/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moshi02/leetSol/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/moshi02/leetSol/tree/master/2727-number-of-senior-citizens) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/moshi02/leetSol/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1983-maximum-population-year](https://github.com/moshi02/leetSol/tree/master/1983-maximum-population-year) |
 ## Simulation
 |  |
