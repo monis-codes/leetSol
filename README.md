@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/moshi02/leetSol/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/moshi02/leetSol/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/moshi02/leetSol/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/moshi02/leetSol/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/moshi02/leetSol/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/moshi02/leetSol/tree/master/2727-number-of-senior-citizens) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/moshi02/leetSol/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moshi02/leetSol/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/moshi02/leetSol/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/moshi02/leetSol/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/moshi02/leetSol/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/moshi02/leetSol/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/moshi02/leetSol/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1983-maximum-population-year](https://github.com/moshi02/leetSol/tree/master/1983-maximum-population-year) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/moshi02/leetSol/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
 |  |
 | ------- |
