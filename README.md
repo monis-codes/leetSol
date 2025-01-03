@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/moshi02/leetSol/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/moshi02/leetSol/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/moshi02/leetSol/tree/master/1013-fibonacci-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/moshi02/leetSol/tree/master/2619-categorize-box-according-to-criteria) |
